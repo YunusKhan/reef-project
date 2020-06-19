@@ -1,5 +1,3 @@
-# reef-project
-reef-project
 README.md
 
 FOLDER structure 
